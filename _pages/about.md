@@ -11,7 +11,11 @@ redirect_from:
 This is Dylan's (Mr. Armitage's) home on the web.
 ======
 ***Remove blur from Goalbook***
-Just click and drag the following link to your bookmarks bar:
-<a href="javascript:(function(){var d=document.getElementsByClassName("locked-content");while(d.length>0){d[0].className="accordion-inner linkable medium-text medium-light-text";}})();">Goalbook Unlocker</a>
 
 (only verified to work in Google Chrome, so far)
+
+Right-click (or whatever it is on a Mac) on your bookmarks bar, click "add page," then in the URL box paste the following code:
+```javascript
+javascript:(function(){var d=document.getElementsByClassName("locked-content");while(d.length>0){d[0].className="accordion-inner linkable medium-text medium-light-text";}})();
+```
+Name it whatever you want, like Goalbook Unblocker.
