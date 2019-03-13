@@ -20,4 +20,4 @@ javascript:(function(){var d=document.getElementsByClassName("locked-content");w
 ```
 Name it whatever you want, like Goalbook Unblocker.
 
-Now, when you're on an activity page such as [3-Act Math](https://goalbookapp.com/toolkit/strategy/3-act-math), just clikc the bookmark and it'll remove the text bluring so you can read everything!
+Now, when you're on an activity page such as [3-Act Math](https://goalbookapp.com/toolkit/strategy/3-act-math), just click the bookmark and it'll remove the text bluring so you can read everything!
