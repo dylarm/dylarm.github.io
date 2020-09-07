@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dylan Armitage / Mr. Armitage"
 title_separator          : "-"
 name                     : &name "Dylan Armitage"
-description              : &description "Teacher candidate"
+description              : &description "Teacher, Secondary"
 url                      : https://dylarm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dylarm/dylarm.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : MrArmitage2019
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dylan Armitage"
   avatar           : "bio-photo-actual.jpg"
-  bio              : "Currently focused on my credential and Masters"
+  bio              : "Teaching math remotely"
   location         : "US"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : 
